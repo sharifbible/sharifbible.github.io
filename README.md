@@ -1,5 +1,10 @@
 # sharifbible.github.io
 Future home of the Sharif Bible website
+## Table of Contents
+* [Developing](#developing)
+  * [MacOs](#macos)
+  * [Windows](windows)
+  * [Working with the site](#working-with-the-site)
 
 ## Developing
 This website uses [Jekyll](https://jekyllrb.com) to generate the website from markdown, and the result is served from [GitHub Pages](https://pages.github.com). Everything needed to update this site should be contained in this repo.
