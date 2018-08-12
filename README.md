@@ -73,9 +73,3 @@ Finally, when you're ready to wrap up all the work you've done, push it up to gi
 ~~~ sh
 git push -u origin feature/a-short-feature-name
 ~~~
-
-
-And when you're ready to commit your work for the first time:
-~~~ sh
-
-
