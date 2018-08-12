@@ -1,2 +1,2 @@
 # sharifbible.github.io
-Sharif Bible website
+Future home of the Sharif Bible website
