@@ -59,6 +59,23 @@ git checkout develop
 All work on the site must be done in a branch off develop, so when you're ready to do your work, run:
 ~~~ sh
 git fetch --all
-git checkout -b origin/feature/a-short-feature-name develop
+git checkout -b feature/a-short-feature-name develop
 ~~~
+
+Make small changes at a time, saving your work, and then commit:
+~~~ sh
+git commit -a -m "a brief message describing the change"
+~~~
+
+Commit early and often.
+
+Finally, when you're ready to wrap up all the work you've done, push it up to github:
+~~~ sh
+git push -u origin feature/a-short-feature-name
+~~~
+
+
+And when you're ready to commit your work for the first time:
+~~~ sh
+
 
