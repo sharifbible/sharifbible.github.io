@@ -5,6 +5,7 @@ Future home of the Sharif Bible website
   * [MacOs](#macos)
   * [Windows](windows)
   * [Working with the site](#working-with-the-site)
+  * [Making changes](#making-changes)
 
 ## Developing
 This website uses [Jekyll](https://jekyllrb.com) to generate the website from markdown, and the result is served from [GitHub Pages](https://pages.github.com). Everything needed to update this site should be contained in this repo.
@@ -62,7 +63,17 @@ git clone git+ssh://git@github.com/sharifbible/sharifbible.github.io.git
 cd sharifbible.github.io
 git checkout develop
 ~~~
+Now, use bundle to install all the necessary gems:
+~~~ sh
+bundle install
+~~~
+Then, test out the site by running Jekyll:
+~~~ sh
+bundle exec jekyll serve
+~~~
+And navigate to the url (default is localhost:4000 or 127.0.0.1:4000). You should see the site.
 
+### Making changes
 All work on the site must be done in a branch off develop, so when you're ready to do your work, run:
 ~~~ sh
 git fetch --all
