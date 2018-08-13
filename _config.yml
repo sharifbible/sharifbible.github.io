@@ -16,17 +16,23 @@
 title: SharifBible.com
 email: info@sharifbible.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Sharif Bible is the complete Bible in modern Arabic. It is a dynamic translation, 
-  and attempts to transfer the meaning of the original text into simple, modern, standard, 
+  The Sharif Bible is the complete Bible in modern Arabic. It is a dynamic translation,
+  and attempts to transfer the meaning of the original text into simple, modern, standard,
   literary Arabic. This is meant to be understandable across the Arab world, so regional
-  words and expressions are avoided. This translation holds dearly to being as accurate 
-  and faithful to the original text as possible, natural (in language familiar to the reader), 
-  clear, and easy to understand. It is an accurate translation of the original Hebrew and 
+  words and expressions are avoided. This translation holds dearly to being as accurate
+  and faithful to the original text as possible, natural (in language familiar to the reader),
+  clear, and easy to understand. It is an accurate translation of the original Hebrew and
   Greek texts into the people's simple language.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sharifbible.com" # the base hostname & protocol for your site, e.g. http://example.com
+sitesearchurl: "sharifbible.com"
 twitter_username: sharifbible
 github_username:  sharifbibleadmin
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true
 
 # Build settings
 markdown: kramdown
