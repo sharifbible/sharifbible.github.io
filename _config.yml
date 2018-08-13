@@ -25,14 +25,30 @@ description: >- # this means to ignore newlines until "baseurl:"
   Greek texts into the people's simple language.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sharifbible.com" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
 sitesearchurl: "sharifbible.com"
 twitter_username: sharifbible
 github_username:  sharifbibleadmin
+
+
+# default values for processing
 defaults:
-  - scope:
+  -
+    scope:
       path: "images"
     values:
       image: true
+# multilanguage settings
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "ar"
+    values:
+      lang: "ar"
 
 # Build settings
 markdown: kramdown
@@ -40,6 +56,7 @@ sass:
   sass_dir: css
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

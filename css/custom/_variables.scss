@@ -1,11 +1,12 @@
 // customization for the home-page carousel, to help the captions stand
 // out a little better.
-#mainCarousel .carousel-caption {
+#mainCarousel .carousel-caption-left {
   color: white;
   text-align: center;
   max-width: 300px;
-  left: 0;
-  top: 0;
+  position: absolute;
+  left: 0px;
+  top: 0px;
   background: rgba(0,0,0,0.5);
   padding:10px;
   height:100%;
