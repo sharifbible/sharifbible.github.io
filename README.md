@@ -59,6 +59,7 @@ You will need the following installed and up-to-date:
 With the environment set up on Mac or Windows, it's time to clone this repository:
 ~~~ sh
 git clone git+ssh://git@github.com/sharifbible/sharifbible.github.io.git
+cd sharifbible.github.io
 git checkout develop
 ~~~
 
