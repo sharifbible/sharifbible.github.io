@@ -34,11 +34,22 @@ You will need the following installed and up-to-date:
    gem install bundler
    ~~~
 
-5. You'll need a github account, and your environment set up correctly. To confirm, run:
+5. You'll need a github account, and your environment set up correctly. If you don't already have a key-pair, start with generating one:
+   ~~~ sh
+   ssh-keygen -t rsa -b 4096 -C "your-github-email@example.com"
+   ~~~
+   You can choose to save that key in a new file, or accept the default. Then, copy the public key to your clipboard:
+   ~~~ sh
+   pbcopy < ~/.ssh/id_rsa.pub
+   ~~~
+   In your github account, under Settings | SSH and GPG Keys, paste the key into a new SSH Key. Then, add your key to your mac keychain:
+   ~~~ sh
+   ssh-add -K ~/.ssh/id_rsa
+   ~~~
+   To confirm that you are configured correctly, run:
    ~~~ sh
    ssh -T git@github.com
    ~~~
-
    You should see a response that indicates that you have successfully authenticated.
 
 ### Windows
