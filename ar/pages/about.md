@@ -4,5 +4,7 @@ title: About
 permalink: /ar/about/
 ---
 
-{:.display-1}
-# More about the International Sharif Bible Society
+# About
+
+{: dir="rtl" }
+لا اعرف كيف اتحدث العربية يرجى ارسال المساعدة
