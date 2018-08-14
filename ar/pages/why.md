@@ -3,19 +3,21 @@ layout: default
 title: Why the Sharif?
 permalink: /ar/why-the-sharif/
 ---
+{: dir="ltr"}
 ## Why the Sharif?
+{: dir="ltr"}
 ### An Explanation of the Reasons, Methods, and Purpose Behind the Translation of the Sharif Bible
 
-Not only was she educated, but she was a High School instructor, then university professor, and yet when I presented her with a copy of my Arabic Bible and asked her to read a passage from Mark’s gospel, she got bogged down in her reading and stumbled her way through. I didn’t interfere, and when she finished I asked, “What did you understand?” “Absolutely nothing,” she said, and she went on to inquire into the meaning of several of the words she had read.
+متعلمة، بل وأستاذة في الثانوية. بعد ذلك بقليل أصبحت أستاذة في الجامعة. ولكني حين قدمت لها نسختي من كلمة الله (الكتاب المقدس) وطلبت منها أن تقرأ فصلا من بشارة مرقس، تَعَثَّرَتْ وتلعثمت عدة مرات في قراءتها. أنا من ناحيتي سكت، ولما انتهت سألتها: "ماذا فهمت؟" قالت: "لا شيء على الإطلاق." وباحترام سألتني عن معاني عدة كلمات فيما قَرَأَتْ.
 
-Given my lack of experience and naivete, I could not imagine how a person of her education could fail to understand the Bible that I was raised on and had read many times. This woman was considered among the educated elite in her nation and yet she could not understand the Bible whose verses I had memorized from my childhood!
+في بساطتي وعدم خبرتي لم أكن أتخيل أن هناك شخصا متعلما مثلها لا يمكنه أن يفهم الكتاب الذي نشأتُ عليه من طفولتي وقرأته مرارا وتكرارا! هذه شابة تُعتبر في قمة المتعلمين في بلدها، ولكنها لا تفهم كتابي الذي حفظتُ الكثير من آياته منذ صغري!
 
-I soon realized that the majority of Arabs couldn’t understand my Arabic Bible, and that’s when I set out upon a long journey. It has not been easy. I have had reservations and have felt incompetent, weak, unqualified and inadequate. But I obeyed because God spoke so clearly to me.
+أدركتُ بعد ذلك أن أكثر العرب لا يفهمونه. ومن هنا بدأت رحلة طويلة. لم تكن سهلة. بل كان فيها تردد وشعور بالنقص والضعف وعدم الأهلية وعدم الكفاية. أطعتُ لأن الله تكلم بوضوح.
 
-I focused my doctoral studies on the translation of the Scriptures. I invested every effort to make sure the Sharif Bible would be dynamic, meaningful, accurate and clear, and that it would be written in proper and simple Arabic. To achieve this I rendered the Scriptures in their original languages into Arabic terms people understood, terms that were appropriate, widely recognized and familiar.
+ولذلك رَكَّزت دراستي في الدكتوراه على علوم ترجمة كتاب الله. واجتهدت أن تكون هذه الترجمة حية ومعنوية ودقيقة وواضحة وبلغة عربية سليمة وسهلة. لهذا عملت على صياغة المعنى بألفاظ ملائمة ومعروفة ومألوفة يفهمها الناس.
 
-I persisted in this work for 25 years with the help of more than 40 others, experts in Arabic, Greek and Hebrew, as well as translation consultants. Today we present the Sharif Bible as an offering to the One Redeemer who loved us gave his life for us. Our goal is to present the Word of God to people in a language that is clear and simple and easily understood.
+استغرق العمل 25 سنة، وراجع الترجمة معي أكثر من 40 شخصا من الاختصاصيين في العبرية واليونانية والعربية وعلوم التفسير. واليوم نحن نقدم الكتاب الشريف قربانا للفادي الذي أحبنا ومات من أجلنا. وهدفنا هو أن نقدم كلمة الله للناس بلغة واضحة وسهلة يفهمونها.
 
-Our desire is to gather together all readers – educated and uneducated, the elite and those in humble positions, those who are highly successful and those who live from one meal to the next, people of public recognition as well as those at the bottom of the totem pole. We want to give everyone an opportunity to hear God speak to them, to address them personally in a way they will comprehend and respond to his invitation and guidance.
+لقد قصدنا أن نشمل كل الناس، المتعلم وغير المتعلم. صاحب الرتبة العالية أو المكانة المتواضعة. الذي أصاب النجاح في الحياة، أو الذي يكد ويناضل لمجرد أن يأكل لقمة. الذي له اعتبار كبير في نظر الناس، أو الذي هو في قعر المجتمع في نظرهم. نحن نريد أن نعطي الفرصة للجميع ليسمعوا الله يكلمهم هم بالذات، ويحدثهم شخصيا، فيفهموا كلامه، ويستجيبوا لدعوته وإرشاده.
 
-That’s why the Sharif Bible exists.
+هذا هو قصدنا من الكتاب الشريف.
