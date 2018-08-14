@@ -1,3 +1,7 @@
+{%- assign margin = "r" -%}
+{%- if page.lang == "ar" -%}
+  {%- assign margin = "l" -%}
+{%- endif -%}
 <nav class="navbar navbar-expand-xl navbar-dark bg-dark" role="navigation">
  <a class="navbar-brand" href="/{{ page.lang }}/">ISBS</a>
  <button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -6,7 +10,7 @@
    <span class="navbar-toggler-icon"></span>
  </button>
  <div class="collapse navbar-collapse" id="navbarNav">
-   <ul class="navbar-nav mr-auto">
+   <ul class="navbar-nav m{{ margin }}-auto">
      <li class="nav-item">
        <a class="nav-link" href="/{{page.lang}}/why-the-sharif">Why the Sharif?</a>
      </li>
@@ -26,9 +30,9 @@
        <a class="nav-link" href="/{{page.lang}}/about">About</a>
      </li>
    </ul>
-   <form class="form-inline" method="get" action="https://www.google.com/search" target="_blank">
+   <form class="form-inline m{{ margin }}-2" method="get" action="https://www.google.com/search" target="_blank">
      <input type="hidden" name="sitesearch" value="{{ site.sitesearchurl }}" />
-     <input class="form-control mr-sm-2" type="search" name="q" placeholder="Search" aria-label="Search">
+     <input class="form-control m{{ margin }}-sm-2" type="search" name="q" placeholder="Search" aria-label="Search">
      <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button>
    </form>
    {%- assign lang_path = "/" | append: page.lang | append: "/" -%}
