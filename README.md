@@ -24,9 +24,9 @@ You will need the following installed and up-to-date:
    ~~~
    Follow the instructions from `rbenv init`, then exit and start a new Terminal window.
 
-3. With rbenv installed, you can now install the [correct version](.ruby-version) of Ruby. For example, if it is 2.5.1, run:
+3. With rbenv installed, you can now install the [correct version](.ruby-version) of Ruby. For example, if it is 2.4.1, run:
    ~~~ sh
-   rbenv install 2.5.1
+   rbenv install 2.4.1
    rbenv rehash
    ~~~
 
@@ -54,7 +54,20 @@ You will need the following installed and up-to-date:
    You should see a response that indicates that you have successfully authenticated.
 
 ### Windows
-(to do)
+You will need the following installed and up-to-date:
+1. Install WSL (Ubuntu) from the Windows App Store
+2. From the new terminal, run:
+    ~~~ sh
+    sudo apt install rbenv
+    rbenv init
+    rbenv install 2.4.1
+    rbenv rehash
+    gem install bundler
+    rbenv rehash
+    bundle install
+    ~~~ 
+
+
 
 ### Working with the site
 With the environment set up on Mac or Windows, it's time to clone this repository:
