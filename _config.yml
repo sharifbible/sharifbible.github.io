@@ -53,7 +53,7 @@ defaults:
 # Build settings
 markdown: kramdown
 sass:
-  sass_dir: css
+  sass_dir: node_modules
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
