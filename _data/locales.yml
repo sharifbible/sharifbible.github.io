@@ -1,6 +1,6 @@
 en:
-  title: English
-  dir: ltr
+  label: English
+  langdir: ltr
 ar:
-  title: Arabic
-  dir: rtl
+  label: Arabic
+  langdir: rtl
