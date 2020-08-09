@@ -24,9 +24,9 @@ You will need the following installed and up-to-date:
    ~~~
    Follow the instructions from `rbenv init`, then exit and start a new Terminal window.
 
-3. With rbenv installed, you can now install the [correct version](.ruby-version) of Ruby. For example, if it is 2.4.1, run:
+3. With rbenv installed, you can now install the [correct version](.ruby-version) of Ruby. For example, if it is 2.7.1, run:
    ~~~ sh
-   rbenv install 2.4.1
+   rbenv install 2.7.1
    rbenv rehash
    ~~~
 
@@ -58,9 +58,13 @@ You will need the following installed and up-to-date:
 1. Install WSL (Ubuntu) from the Windows App Store
 2. From the new terminal, run:
     ~~~ sh
-    sudo apt install rbenv
+    curl -sL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-installer | bash -
+    echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+    echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+    source ~/.bashrc 
     rbenv init
-    rbenv install 2.4.1
+    rbenv install 2.7.1
+    rbenv local 2.7.1
     rbenv rehash
     gem install bundler
     rbenv rehash
@@ -104,3 +108,7 @@ Finally, when you're ready to wrap up all the work you've done, push it up to gi
 ~~~ sh
 git push -u origin feature/a-short-feature-name
 ~~~
+
+## Other Notes
+Regularly run `bundle update` to ensure we're on the latest versions. Driven by github-pages dependencies described at https://pages.github.com/versions/
+
