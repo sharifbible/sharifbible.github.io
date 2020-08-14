@@ -4,7 +4,6 @@ title: Why the Sharif?
 permalink: /en/why-the-sharif/
 ---
 ## Why the Sharif?
-### An Explanation of the Reasons, Methods, and Purpose Behind the Translation of the Sharif Bible
 
 Not only was she educated, but she was a High School instructor, then university professor, and yet when I presented her with a copy of my Arabic Bible and asked her to read a passage from Mark’s gospel, she got bogged down in her reading and stumbled her way through. I didn’t interfere, and when she finished I asked, “What did you understand?” “Absolutely nothing,” she said, and she went on to inquire into the meaning of several of the words she had read.
 
