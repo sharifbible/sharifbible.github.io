@@ -5,6 +5,10 @@ permalink: /en/about/
 ---
 ## About the Sharif Bible
 
+Dear Visitor,
+
+There is no God but God, to whom belongs praise and from whom come all favors and blessing.
+
 We're happy you've stopped by to visit *The Sharif Bible*. We hope you enjoy our site and find it helpful. If you have any questions, feel free to write us at **info@sharifbible.com**.
 
 The Sharif Bible is an Arabic translation of the Bible primarily for Muslim readers, but many traditional Arabic-speaking Christians throughout the Middle East and North Africa also love it because of the ease and clarity of its language.
