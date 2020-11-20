@@ -13,7 +13,9 @@ We have several Sharif editions for different needs.
 
 **Third**, our *Luke-Acts Diglot* presents in Arabic and English the gospel as told by Luke as well as the his Book of Acts. We hope to see the Sharif New Testament appear in English, and this is the first installment. It's help for Arabic speakers who are learning English and English speakers who are learning Arabic.
 
-**Lastly**, our *Pulpit New Testament*, is a large-print edition of the New Testament. You might enjoy placing it open on a stand in your home or place of public gathering. 
+**Lastly**, our *Pulpit New Testament*, is a large-print edition of the New Testament. You might enjoy placing it open on a stand in your home or place of public gathering.
+
+If you would like to purchase one or more of these editions, you can find them on [Amazon] (https://www.amazon.com/Arabic-Bible-Sharif-Translation-Hardcover/dp/0976601494/ref=sr_1_1?dchild=1&keywords=sharif+bible&qid=1605895471&sr=8-1). You can also purchase them on our Order page, where we sell by the box only. And we cover shipping within the continental US. If you live outside the US and are interested in obtaining the Sharif Bible, please email us at info@sharifbible.com.
 
 We also have a number of books and pamphletes which address various topics. We're happy to make available for free download.
 
