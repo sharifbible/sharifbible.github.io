@@ -17,7 +17,7 @@ We have several Sharif editions for different needs.
 
 If you would like to purchase one or more of these editions, you can find them on [Amazon](). You can also purchase copies on our [Order page](), where we sell by the box only. We cover shipping within the continental US. If you live outside the US and are interested in obtaining the Sharif Bible, please email us at info@sharifbible.com.
 
-We also have a number of books and pamphletes which address various topics. We're happy to make available for free download.
+We also have a number of books and pamphlets which address various topics. We're happy to make these available for free download.
 
 Oil Seller
 
