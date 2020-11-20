@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /en/about/
 ---
-## About the Sharif Bible
+## About us and the Sharif Bible
 
 Dear Visitor,
 
