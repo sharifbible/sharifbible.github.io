@@ -27,4 +27,5 @@ permalink: /ar/why-the-sharif/
 {: dir="rtl"}
 هذا هو قصدنا من الكتاب الشريف.
 
+{: dir="rtl"}
 الشيخ عبدالله
