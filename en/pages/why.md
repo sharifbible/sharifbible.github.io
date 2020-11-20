@@ -18,3 +18,5 @@ I persisted in this work for 25 years with the help of more than 40 others, expe
 Our desire is to gather together all readers – educated and uneducated, the elite and those in humble positions, those who are highly successful and those who live from one meal to the next, people of public recognition as well as those at the bottom of the totem pole. We want to give everyone an opportunity to hear God speak to them, to address them personally in a way they will comprehend and respond to his invitation and guidance.
 
 That’s why the Sharif Bible exists.
+
+Sheikh Abdullah
