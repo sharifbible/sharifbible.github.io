@@ -5,15 +5,42 @@ permalink: /en/bibles-books
 ---
 ## Bibles and Books
 
-We're happy you've stopped by to visit The Sharif Bible. We hope you enjoy our page and find it helpful. If you have any questions, feel free to write us at info@sharifbible.com.
+We have three appropriate Bibles for different needs.
 
-The Sharif Bible is an Arabic translation of the Bible primarily for Muslim readers, but many traditional Arabic speaking Christians throughout the Middle East and North Africa also love it because of the ease and clarity of its language. 
+First, our standard Sharif Bible (beautifully printed, gold leaf edges, green hardcover) containing both Old and New Testaments. It has helpful introductory information in the beginning pages and very useful information (charts, prayers, short articles) at the end. The margins also include generous lists of cross references, paragraph headings that help you understand, brief explanatory comments, and (in our 2021 edition) small maps that help readers locate the places and events described in the text. It makes a wonderful gift!
 
-### More information
-The *Sharif Bible* is managed by the **International Sharif Bible Society** (ISBS), a non-denominational, faith-based non-profit Society. We're committed to translating the Bible into Arabic that is simple and clear and that communicates the message of the Bible to all Arabic speaking peoples.
+Second, our Mini New Testament. This pocket-sized New Testament has been very popular. It hides away nicely in your shirt or coat pocket, and you can take it with you wherever you go. The binding is professional and won't fall apart on you, and in spite of being small, the font is very legible. It does not however include any introductory or ending pages, paragraph headings, cross references, or marginal comments.
 
-Translation of the Gospels began in 1975 and quickly expanded to include dozens of professionals from various denominational backgrounds (translators, linguists, Hebrews and Greek Scholars, theologians and consultants) who have cooperated for decades now to produce this first ever translation of the entire Bible for Muslims and the emerging Arabic-speaking Church from Muslim communities.
+Third, our Luke-Acts Diglot presents in Arabic and English the gospel as told by Luke as well as the his Book of Acts. We hope to see the Sharif New Testament appear in English, and this is the first installment. It's help for Arabic speakers who are learning English and English speakers who are learning Arabic.
 
-You can read and listen to the Sharif Bible on your mobile phone too!
+We also have a number of books and pamphletes which address various topics which we're happy to make available for free download.
 
-For more information, check out [more info here](https://google.com)
+Oil Seller
+
+
+Greatest Visitor
+
+
+I Saw His Face
+
+
+My Father
+
+
+He Loved Me
+
+
+Prayers of the Prophet David
+
+
+Don't Waste Your Sorrows
+
+
+Your Problems Have Solutions
+
+
+Prayers and Poems
+
+
+
+
