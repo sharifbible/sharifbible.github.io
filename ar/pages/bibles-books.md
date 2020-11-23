@@ -4,19 +4,41 @@ title: Bibles and Books
 permalink: /ar/bibles-books
 ---
 {: dir="rtl" }
-## Bibles and Books
+##طبعات مختلفة من الكتاب الشريف وكتب أخرى##
+
 
 {: dir="rtl" }
-We're happy you've stopped by to visit The Sharif Bible. We hope you enjoy our page and find it helpful. If you have any questions, feel free to write us at info@sharifbible.com.
+**بائعة الزيت**
+يورد المؤلف في هذا العمل قصصًا من كتاب الله وواقع الحياة ليضرب للناس الأمثال، وذلك في قالب روحي نقى من الشوائب الثقافية والتاريخية والدينية التي اعترت فكرنا وأدبياتنا الروحية، فأصبحت غشاوة تحجب عنَّا رسالة الحياة التي جاء بها سيدنا عيسى المسيح. كما يروى المؤلف شهادات مؤمنين نهلوا من ماء الحياة وعرفوا نور الحق فآثروا الشهادة أو شظف العيش على العودة إلى الظلام.
 
 {: dir="rtl" }
-The Sharif Bible is an Arabic translation of the Bible primarily for Muslim readers, but many traditional Arabic speaking Christians throughout the Middle East and North Africa also love it because of the ease and clarity of its language. 
+**أعظم من زارنا**
+من هو أعظم من زار أرضنا؟ من هو أسمى من أقدم علينا من مكان آخر، وظل بيننا فترة قصيرة ثم رجع إلى المكان الذي جاء منه؟ تعال نفحص هذا السؤال.
 
-### More information
-The *Sharif Bible* is managed by the **International Sharif Bible Society** (ISBS), a non-denominational, faith-based non-profit Society. We're committed to translating the Bible into Arabic that is simple and clear and that communicates the message of the Bible to all Arabic speaking peoples.
+{: dir="rtl" } 
+**رأيتُ وجهه**
+قصة واقعية من صميم الحياة. أحداثها جرت فعلا، ووقائعها وتفاصيلها حقيقية لا خيالية. تعرفت على الكاتب في ظروف حالكة كان يمر بها. لكن دبرت العناية الإلهية أن نلتقي، فكان بحق لقاء العمر.
 
-Translation of the Gospels began in 1975 and quickly expanded to include dozens of professionals from various denominational backgrounds (translators, linguists, Hebrews and Greek Scholars, theologians and consultants) who have cooperated for decades now to produce this first ever translation of the entire Bible for Muslims and the emerging Arabic-speaking Church from Muslim communities.
+{: dir="rtl" } 
+**أبي**
+في كتابه الجديد يقدّم لنا الشيخ عبد الله دراسة قد يعزُّ نظيرها حول مفهوم الصلاة ومعالمها ومعناها الصادق، وفق عقيدة سيدنا عيسى، وهي بنصِّ كلمات الكاتب: "صلاةٌ كاملةٌ، عجيبةِّ وقويةِّ تحتوي على كلِّ ما نحتاج إليه، كلِّ ما يهمّنا، من روحيات وماديات، من مملكة الله إلى خبزنا اليوميِّ، الأشياء الكبيرة والأشياء الصغيرة، الأمورِ العظيمة والأمورِ البسيطة."
 
-You can read and listen to the Sharif Bible on your mobile phone too!
+{: dir="rtl" } 
+**أحَبَّني**
+هذا الكتاب بعد البداية الهادئة التي تمهد بتقديم المعلومات الأولية للقارئ الخالي الذهن، تصاعد عرض المعنى الروحي بشكل متدرج رائع. وهنا أصبح الموضوع لاهوتيا عميقا وسهلا في آن واحد، وأيضا مصحوبا بعاطفة دافئة تجاه مولانا المسيح وموته من أجلنا على الصليب. تلك العاطفة التي تدلف بسلاسة إلى روح القارئ، فتنشئ تفاعلا تلقائيا يغرس اختبارا روحيا في صميم الصميم من وجدان من يقبل.
 
-For more information, check out [more info here](https://google.com)
+{: dir="rtl" } 
+**دعاء النبي داود**
+هذه مجموعة من الأدعية التي كان يقدمها النبي داود لله قبل حوالي 2‪,‬700 سنة. لقد أبقاها الله لنا بقدرته وحكمته دون تغيير أو تحريف لتكون مشجعا لنا ولكي يمكننا أن نستنير بهديها. رجاؤنا في الله القدير أن يستعملها القارئ في دعائه وصلاته.
+
+{: dir="rtl" }
+**استفدْ من أحزانك**
+تؤكد فئات متعددة اليوم أن الحياة الروحية المثالية هي حياة متواصلة الفرح والسلام والازدهار المادي. فالانطباع السائد لدى تلك الفئات أن النجاة والامتلاء بالروح يؤديان إلى حياة حلوة، خالية من المتاعب، فيها تُحل جميع المشاكل تلقائيًا وتحدث المعجزات بلا انقطاع. هذا الكتاب يعالج هذا الخطأ باللجوء إلى كلمة الله.
+
+{: dir="rtl" } 
+**مشاكلك لها حل**
+المعضلة الأولى التي تواجه العقل المفكر هي معضلة الإنسان: من أين أتيت؟ وإلى أين أذهب؟ وماذا تعنيه كل هذه العناصر المتعارضة داخل طبيعتي؟ كيف أني أحب ذات يوم، ثم في خلال ساعة واحدة أكره؟ ما مغزى جميع هذه التجارب الغريبة والمتناقضة التي اجتازها وأنا أشق طريقي في الحياة؟
+
+{: dir="rtl" } 
+**قصائد وأدعية**
+كتاب صغير له مجموعتان من قصائد وأدعية من الشاعر عمر المهدي. من مقدمه لهذا الكتاب من عمر المهدي، يقول الشيخ عبدالله: "في هذا الكتاب نحن نختبر مع الكاتب عمق العواطف مع هدوء النفس، والماضي الكئيب مع الحاضر الهنيء، والحياة البعيدة عن الله الحق، والعيشة في كنف القدير وتحت جناحي رحمته وحنانه ونعمته."
