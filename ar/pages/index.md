@@ -1,5 +1,5 @@
 ---
-layout: home-ar
+layout: home
 title: Home
 permalink: /ar/
 ---
