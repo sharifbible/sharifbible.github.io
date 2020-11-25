@@ -7,24 +7,7 @@
  </button>
  <div class="collapse navbar-collapse" id="navbarNav">
    <ul class="navbar-nav mr-auto">
-     <li class="nav-item">
-       <a class="nav-link" href="/{{page.lang}}/why-the-sharif">Why the Sharif?</a>
-     </li>
-     <li class="nav-item">
-       <a class="nav-link" href="/{{page.lang}}/read-listen">Watch & Listen</a>
-     </li>
-     <li class="nav-item">
-       <a class="nav-link" href="/{{page.lang}}/bibles-books">Bibles & Books</a>
-     </li>
-     <li class="nav-item">
-       <a class="nav-link" href="/{{page.lang}}/contact">Contact</a>
-     </li>
-     <li class="nav-item">
-       <a class="nav-link" href="/{{page.lang}}/contact">Order</a>
-     </li>
-     <li class="nav-item">
-       <a class="nav-link" href="/{{page.lang}}/about">About</a>
-     </li>
+    {% include menu-links.html %}
    </ul>
    <form class="form-inline mr-2" method="get" action="https://www.google.com/search" target="_blank">
      <input type="hidden" name="sitesearch" value="{{ site.sitesearchurl }}" />

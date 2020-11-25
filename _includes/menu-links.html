@@ -1,0 +1,6 @@
+{% for item in site.data.nav-menus %}
+  {% assign menu_text = item[1][page.lang] %}
+  <li class="nav-item">
+    <a class="nav-link" href="/{{page.lang}}/{{ item[1].path }}">{{ menu_text }}</a>
+  </li>
+{% endfor %}

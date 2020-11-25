@@ -2,8 +2,11 @@
   en: en/pages/about.md
   ar: ar/pages/about.md
 -
-  en: en/pages/why.md
-  ar: ar/pages/why.md
+  en: en/pages/bibles-books.md
+  ar: ar/pages/bibles-books.md
 -
   en: en/pages/index.md
   ar: ar/pages/index.md
+-
+  en: en/pages/why.md
+  ar: ar/pages/why.md
