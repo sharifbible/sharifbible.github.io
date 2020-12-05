@@ -1,28 +1,28 @@
-image:
+-
   style: active
   path: /assets/carousel-2.jpg
   alt: First slide
   en:
     style: carousel-caption-left
     title: Some Title
-    caption: "When you read the Sharif Bible, the language flows easily, you enjoy what you read, and you feel as if it really is addressed to you personally from a Heavenly Father, and you’re also able to easily share it with others." (Um Ghattas, Jordan)
+    caption: When you read the Sharif Bible, the language flows easily, you enjoy what you read, and you feel as if it really is addressed to you personally from a Heavenly Father, and you’re also able to easily share it with others. (Um Ghattas, Jordan)
   ar:
     style: carousel-caption-right
     title: الكتاب ألشريف
     caption: الكتاب ألشريف
-image:
+-
   style: 
   path: /assets/carousel-3.jpg
   alt: Second slide
   en:
     style: carousel-caption-left
     title: Some Title
-    caption: "The Sharif presents to people new life in Christ in a language that is dynamic, clear and simple." (Dr. Richard Brown, Translation Consultant, USA)
+    caption: The Sharif presents to people new life in Christ in a language that is dynamic, clear and simple. (Dr. Richard Brown, Translation Consultant, USA)
   ar:
     style: carousel-caption-right
     title: الكتاب ألشريف
     caption: الكتاب ألشريف
-image:
+-
   style: 
   path: /assets/carousel-4.jpg
   alt: Third slide
@@ -34,7 +34,7 @@ image:
     style: carousel-caption-right
     title: الكتاب ألشريف
     caption: الكتاب ألشريف
-image:
+-
   style: 
   path: /assets/carousel-5.jpg
   alt: Fourth slide
