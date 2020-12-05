@@ -1,48 +1,62 @@
+## The carousel YAML file defines each of the images and text content used by the home page
+## for the main hero carousel, a bootstrap component (https://getbootstrap.com/docs/4.0/components/carousel/).
+## The carousel data includes the image, the alignment of the caption, and the caption content
+## in each of the languages.
+## To add a new image, just add a new data item, defined below:
+## -
+##   pos: a numeric position, should be in order and start at 0 (i.e. 0, 1, 2, 3). 
+##        The 0 pos item is always active first.
+##   path: the path to the image (usually in the assets folder)
+##   alt: the html "alt" content, something to describe the image for visuall impaired viewers
+##   quoteposition: the alignment (left, right) of the text, so that it doesn't overlay an
+##        important part of the image.
+##   (repeating section for each language)
+##   [lang]: the language identifier (en, ar, etc) for the translated content to show
+##     title: the title of the quote
+##     caption: the caption, which should follow the standards of YAML for escaping quotes. So, if
+##         quotes are included in the caption, surround the entire caption with quotes, and escape the
+##         internal quotes, e.g. "this is an \"escaped quote\" in YAML."
 -
-  style: active
+  pos: 0
   path: /assets/carousel-2.jpg
   alt: First slide
+  quoteposition: left  
   en:
-    style: carousel-caption-left
     title: Some Title
-    caption: When you read the Sharif Bible, the language flows easily, you enjoy what you read, and you feel as if it really is addressed to you personally from a Heavenly Father, and you’re also able to easily share it with others. (Um Ghattas, Jordan)
+    caption: "&ldquo;When you read the Sharif Bible, the language flows easily, you enjoy what you read, and you feel as if it really is addressed to you personally from a Heavenly Father, and you’re also able to easily share it with others.&rdquo; (Um Ghattas, Jordan)"
   ar:
-    style: carousel-caption-right
     title: الكتاب ألشريف
     caption: الكتاب ألشريف
 -
-  style: 
+  pos: 1 
   path: /assets/carousel-3.jpg
   alt: Second slide
+  quoteposition: right  
   en:
-    style: carousel-caption-left
     title: Some Title
-    caption: The Sharif presents to people new life in Christ in a language that is dynamic, clear and simple. (Dr. Richard Brown, Translation Consultant, USA)
+    caption: "\"The Sharif presents to people new life in Christ in a language that is dynamic, clear and simple.\" (Dr. Richard Brown, Translation Consultant, USA)"
   ar:
-    style: carousel-caption-right
     title: الكتاب ألشريف
     caption: الكتاب ألشريف
 -
-  style: 
+  pos: 2 
   path: /assets/carousel-4.jpg
   alt: Third slide
+  quoteposition: left  
   en:
-    style: carousel-caption-left
     title: Some Title
     caption: Some Caption
   ar:
-    style: carousel-caption-right
     title: الكتاب ألشريف
     caption: الكتاب ألشريف
 -
-  style: 
+  pos: 3 
   path: /assets/carousel-5.jpg
   alt: Fourth slide
+  quoteposition: left  
   en:
-    style: carousel-caption-left
     title: Some Title
     caption: Some Caption
   ar:
-    style: carousel-caption-right
     title: الكتاب الشريف
     caption: الكتاب ألشريف

@@ -1,18 +1,24 @@
 <div id="mainCarousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
   <ol class="carousel-indicators">
-    <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#mainCarousel" data-slide-to="1"></li>
-    <li data-target="#mainCarousel" data-slide-to="2"></li>
-    <li data-target="#mainCarousel" data-slide-to="3"></li>
+    {% for image in site.data.carousel %}
+    {% assign active_style = "" %}
+    {% if image.pos == 0 %}
+      {% assign active_style = "active" %}
+    {% endif %}
+    <li data-target="#mainCarousel" data-slide-to="{{ image.pos }}" class="{{ active_style }}"></li>
+    {% endfor %}
   </ol>
   <div class="carousel-inner">
     {% for image in site.data.carousel %}
-    {% assign textdata = image[1][page.lang] %}
-    <div class="carousel-item {{ image[1].style }}">
-      <img class="d-block w-100" src="{{ image[1].path }}" alt="{{ image[1].alt }}">
-      <div class="{{ image[1].[page.lang].style}} d-none d-md-block">
-        <h3>{{ image[1].[page.lang].title }}</h3>
-        <p>{{ image[1].[page.lang].caption }}</p>
+    {% assign active_style = "" %}
+    {% if image.pos == 0 %}
+      {% assign active_style = "active" %}
+    {% endif %}
+    <div class="carousel-item {{ active_style }}">
+      <img class="d-block w-100" src="{{ image.path }}" alt="{{ image.alt }}">
+      <div class="carousel-caption-{{ image.quoteposition }} d-none d-md-block">
+        <h3>{{ image.[page.lang].title }}</h3>
+        <p>{{ image.[page.lang].caption }}</p>
       </div>
     </div>
     {% endfor %}
