@@ -19,38 +19,29 @@ If you would like to purchase one or more of these editions, you can find them o
 
 We also have a number of books and pamphlets which address various topics. We're happy to make these available for free download.
 
-**The Oil Seller**
-
+**The Oil Seller**  
 A compilation of true-life modern stories told against the background of Jesus’ parables, this book presents challenging and inspirational accounts of Jesus’ power to save. [Download this book]().
 
-**Greatest Visitor** 
-
+**Greatest Visitor**  
 Who is the greatest to have ever visited the earth? Who is the most excellent visitor we have ever welcomed from another place? He remained with us for a single lifetime before returning to his home. This book explores Jesus as the answer to these questions. [Download this book]().
 
-**I Saw His Face** 
-
+**I Saw His Face**  
 A true account of one man’s incredible story of God’s providence and the encounter of a lifetime. [Download this book]().
 
-**My Father** 
-
+**My Father**  
 In this book author Sheikh Abdullah presents an inspirational study of the Lord’s Prayer. [Download this book]().
 
-**He Loved Me** 
-
+**He Loved Me**  
 A wonderful presentation of the deep and profound mystery of the Cross. [Download this book]().
 
-**Prayers of the Prophet David** 
-
+**Prayers of the Prophet David**  
 A collection of prayers offered to God by the Prophet David, prayers preserved by God for us for our encouragement and guidance. [Download this book](). 
 
-**Don’t Waste Your Sorrows** 
-
+**Don’t Waste Your Sorrows**  
 Many today suggest the spiritual life of faith is a life of continuous joy and prosperity, free from the pain and suffering of trials and misfortunes. This book addresses this false view of life’s journey. [Download this book]().
 
-**Your Problems Have a Solution** 
-
+**Your Problems Have a Solution**  
 The dilemma which confronts each thinking person is humanity itself: Where did we come from? Where are we going? Whence all the forces of opposition that wage war in me? How is it I love one day and then hate another? What’s the point in all this? [Download this book]().
 
-**Poems & Prayers** 
-
+**Poems & Prayers**  
 A small book of poems and prayers written by Poet Omar El-Madi, about whom Sheikh Abdullah says in his forward, “In this book we are led into an experience of deep emotions and peace of mind, of the terrifying past and present bliss, of life far from God and also of life lived under the care and provision of God’s tenderness, mercy, and grace.” (Not available for download).

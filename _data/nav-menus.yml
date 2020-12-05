@@ -5,20 +5,20 @@ why-the-sharif:
 watch-listen:
   path: watch-listen
   en: Watch & Listen
-  ar: لماذا
+  ar: ترى وتسمع
 bibles-books:
   path: bibles-books
   en: Bibles & Books
-  ar: Bibles & Books
+  ar: الكتاب الشريف وكتب أخرى
 contact:
   path: contact
   en: Contact
-  ar: Contact
+  ar: اتصل بنا
 order:
   path: order
   en: Order
-  ar: Order
+  ar: اطلب
 about:
   path: about
   en: About
-  ar: About
+  ar: من نحن؟
