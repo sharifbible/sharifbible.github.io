@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /ar/about/
+title: Order
+permalink: /ar/order/
 ---
 
 Coming soon
