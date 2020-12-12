@@ -63,6 +63,7 @@ You will need the following installed and up-to-date:
     echo 'eval "$(rbenv init -)"' >> ~/.bashrc
     source ~/.bashrc 
     rbenv init
+    sudo apt-get install -y build-essential git libreadline-dev libssl-dev zlib1g-dev
     rbenv install 2.7.1
     rbenv local 2.7.1
     rbenv rehash
