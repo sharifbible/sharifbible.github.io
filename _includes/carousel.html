@@ -18,7 +18,7 @@
       <img class="d-block w-100" src="{{ image.path }}" alt="{{ image.alt }}">
       <div class="carousel-caption-{{ image.quoteposition }} d-none d-md-block">
         <h3>{{ image.[page.lang].title }}</h3>
-        <p>{{ image.[page.lang].caption }}</p>
+        <p>"{{ image.[page.lang].quote }}" {{ image.[page.lang].ref }}</p>
       </div>
     </div>
     {% endfor %}
