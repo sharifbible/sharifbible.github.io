@@ -9,7 +9,50 @@ We have several Sharif editions for different needs.
 
 You can purchase copies on our [Order page](https://www.example.org), but we sell by the box only. We cover shipping within the continental USA. If you live outside the US and are interested in obtaining the Sharif Bible, please email us at info@sharifbible.com. If you would like to purchase one or just a few copies, you can find the Sharif Bible on [Amazon](https://www.amazon.com/Arabic-Bible-Sharif-Translation-Hardcover/dp/0976601494/ref=sr_1_1?dchild=1&keywords=sharif+bible&qid=1605895471&sr=8-1).
 
-| ![Standard Sharif Bible](/assets/img/standard-sharif.jpg) | **First**, our standard *Sharif Bible* (beautifully printed, gold leaf edges, green hardcover) containing both Old and New Testaments. It has helpful introductory information in the beginning pages and very useful information (charts, prayers, short articles) at the end. The margins also include generous lists of cross references, paragraph headings that help you understand, brief explanatory comments, and (in our 2021 edition) small maps that help readers locate the places and events described in the text. It makes a wonderful gift! |
+### Bootstrap Card Example
+<div class="row">
+    <div class="col-sm-6">
+        <div class="card" style="width: 18rem;">
+            <img src="/assets/img/standard-sharif.png" class="card-img-top img-fluid">
+            <div class="card-body">
+                <h5 class="card-title">Sharif Bible</h5>
+                <p class="card-text"><strong>First</strong>, our standard <em>Sharif Bible</em> (beautifully printed, gold leaf edges, green hardcover) containing both Old and New Testaments. It has helpful introductory information in the beginning pages and very useful information (charts, prayers, short articles) at the end. The margins also include generous lists of cross references, paragraph headings that help you understand, brief explanatory comments, and (in our 2021 edition) small maps that help readers locate the places and events described in the text. It makes a wonderful gift!</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card" style="width: 18rem;">
+            <img src="/assets/img/Mini-NT.jpg" class="card-img-top img-fluid">
+            <div class="card-body">
+                <h5 class="card-title">Mini New Testment</h5>
+                <p class="card-text"><strong>Second</strong>, our <em>Mini New Testament</em>. This pocket-sized New Testament has been very popular. It hides away nicely in your shirt or coat pocket, and you can take it with you wherever you go. The binding is professional and won't fall apart on you, and in spite of being small, the font is very legible. It does not however include any introductory or ending pages, paragraph headings, cross references, or marginal comments.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<br/>
+<br/>
+
+### Bootstrap Container Example
+<div class="row justify-content-md-center">
+    <div class="col col-lg-2"><img src="/assets/img/standard-sharif.png" class="img-fluid"></div>
+    <div class="col col-md-4"><strong>First</strong>, our standard <em>Sharif Bible</em> (beautifully printed, gold leaf edges, green hardcover) containing both Old and New Testaments. It has helpful introductory information in the beginning pages and very useful information (charts, prayers, short articles) at the end. The margins also include generous lists of cross references, paragraph headings that help you understand, brief explanatory comments, and (in our 2021 edition) small maps that help readers locate the places and events described in the text. It makes a wonderful gift!</div>
+</div>
+<div class="row justify-content-md-center">
+    <div class="col col-lg-2"><img src="/assets/img/Mini-NT.jpg" class="img-fluid"></div>
+    <div class="col col-md-4"><strong>Second</strong>, our <em>Mini New Testament</em>. This pocket-sized New Testament has been very popular. It hides away nicely in your shirt or coat pocket, and you can take it with you wherever you go. The binding is professional and won't fall apart on you, and in spite of being small, the font is very legible. It does not however include any introductory or ending pages, paragraph headings, cross references, or marginal comments.</div>
+</div>
+<div class="row justify-content-md-center">
+    <div class="col col-lg-2"><img src="/assets/img/DiglotPic.jpg" class="img-fluid"></div>
+    <div class="col col-md-4"><strong>Third</strong>, our <em>Luke-Acts Diglot</em> presents in Arabic and English the gospel as told by Luke as well as the his Book of Acts. We hope to see the Sharif New Testament appear in English, and this is the first installment. It's help for Arabic speakers who are learning English and English speakers who are learning Arabic.</div>
+</div>
+<br/>
+<br/>
+
+### Markdown Table-based Example
+
+| ![Standard Sharif Bible](/assets/standard-sharif.jpg) | **First**, our standard *Sharif Bible* (beautifully printed, gold leaf edges, green hardcover) containing both Old and New Testaments. It has helpful introductory information in the beginning pages and very useful information (charts, prayers, short articles) at the end. The margins also include generous lists of cross references, paragraph headings that help you understand, brief explanatory comments, and (in our 2021 edition) small maps that help readers locate the places and events described in the text. It makes a wonderful gift! |
 | Image | **Second**, our *Mini New Testament*. This pocket-sized New Testament has been very popular. It hides away nicely in your shirt or coat pocket, and you can take it with you wherever you go. The binding is professional and won't fall apart on you, and in spite of being small, the font is very legible. It does not however include any introductory or ending pages, paragraph headings, cross references, or marginal comments. |
 | Image | **Third**, our *Luke-Acts Diglot* presents in Arabic and English the gospel as told by Luke as well as the his Book of Acts. We hope to see the Sharif New Testament appear in English, and this is the first installment. It's help for Arabic speakers who are learning English and English speakers who are learning Arabic. |
 | Image | **Lastly**, our *Pulpit New Testament*, is a large-print edition of the New Testament. You might enjoy placing it open on a stand in your home or place of public gathering. |  
