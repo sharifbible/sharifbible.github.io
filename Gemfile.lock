@@ -258,6 +258,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-redirect-from
+  jekyll-seo-tag
   tzinfo-data
 
 BUNDLED WITH

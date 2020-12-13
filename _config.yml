@@ -27,9 +27,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 sitesearchurl: "sharifbible.com"
-twitter_username: sharifbible
-github_username:  sharifbibleadmin
-
 
 # default values for processing
 defaults:
@@ -60,15 +57,27 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Jekyll SEO Plugin settings
+# unused (and already defined) values will be commented out
+
+# title:
+# description:
+# author: 
+twitter:
+  username: sharifbible
+  card: summary
+# facebook:
+#   app_id:
+#   publisher:
+#   admins:
+# logo:
+social: 
+  name: Sharif Bible
+  links:
+    - https://www.twitter.com/SharifBible
+    # - don't know the facebook link
+webmaster_verification:
+  google: wLAwiHXO_7MFpJM-njc-j6QHchzfzwSofdpHCnPxepc
+  # bing:
