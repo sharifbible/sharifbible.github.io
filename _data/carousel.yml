@@ -18,7 +18,7 @@
 ##         internal quotes, e.g. "this is an \"escaped quote\" in YAML."
 -
   pos: 0
-  path: /assets/carousel-2.jpg
+  path: /assets/img/carousel-2.jpg
   alt: First slide
   quoteposition: left  
   en:
@@ -29,7 +29,7 @@
     caption: حين تقرأ الكتاب الشريف تناسب اللغة بسهولة، وتتمتع بالكلام الذي تقرأه، وتشعر بأنه حقا خطاب موجه لك أنت شخصيا من أبيك السمائي، كما يمكنك بسهولة مشاركة كلامه مع الآخرين. (أم غطاس، الأردن)
 -
   pos: 1 
-  path: /assets/carousel-3.jpg
+  path: /assets/img/carousel-3.jpg
   alt: Second slide
   quoteposition: right  
   en:
@@ -40,9 +40,9 @@
     caption: اذهبواإلى كل العالم، وانتشروا البشرى لكل الناس. (مرقس 15:16)
 -
   pos: 2 
-  path: /assets/carousel-4.jpg
+  path: /assets/img/carousel-4.jpg
   alt: Third slide
-  quoteposition: left  
+  quoteposition: bottom  
   en:
     title: The Sharif Bible
     caption: "&ldquo;The Sharif Bible presents to people new life in Christ in a language that is dynamic, clear, and simple.&rdquo; (Dr. Richard Brown, Translation Consultant, USA)"
@@ -51,7 +51,7 @@
     caption: الكتاب الشريف تقدم للناس الحياة الجديدة في المسيح بلغة حيوية وواضحة وبسيطة. (الدكتور رشارد براون، الولايات المتحدة)
 -
   pos: 3 
-  path: /assets/carousel-5.jpg
+  path: /assets/img/carousel-5.jpg
   alt: Fourth slide
   quoteposition: left  
   en:
