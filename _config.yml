@@ -24,17 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   clear, and easy to understand. It is an accurate translation of the original Hebrew and
   Greek texts into the people's simple language.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sharifbible.github.io"
 lang: en
-sitesearchurl: "sharifbible.com"
+sitesearchurl: "sharifbible.github.io"
 
 # default values for processing
 defaults:
   -
     scope:
-      path: "images"
+      path: "assets/**/*.*"
     values:
-      image: true
+      sitemap: false
 # multilanguage settings
   -
     scope:
@@ -58,6 +58,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Jekyll SEO Plugin settings
 # unused (and already defined) values will be commented out
