@@ -23,10 +23,12 @@
   quoteposition: left  
   en:
     title: The Sharif Bible
-    caption: "&ldquo;When you read the Sharif Bible, the language flows easily, you enjoy what you read, and you feel as if it really is addressed to you personally from a Heavenly Father, and you’re also able to share it easily with others.&rdquo; (Um Ghattas, Jordan)"
+    quote: When you read the Sharif Bible, the language flows easily, you enjoy what you read, and you feel as if it really is addressed to you personally from a Heavenly Father, and you’re also able to share it easily with others.
+    ref: Um Ghattas, Jordan
   ar:
     title: الكتاب الشريف
-    caption: حين تقرأ الكتاب الشريف تناسب اللغة بسهولة، وتتمتع بالكلام الذي تقرأه، وتشعر بأنه حقا خطاب موجه لك أنت شخصيا من أبيك السمائي، كما يمكنك بسهولة مشاركة كلامه مع الآخرين. (أم غطاس، الأردن)
+    quote: حين تقرأ الكتاب الشريف تناسب اللغة بسهولة، وتتمتع بالكلام الذي تقرأه، وتشعر بأنه حقا خطاب موجه لك أنت شخصيا من أبيك السمائي، كما يمكنك بسهولة مشاركة كلامه مع الآخرين.
+    ref: أم غطاس، الأردن
 -
   pos: 1 
   path: /assets/carousel-3.jpg
@@ -34,10 +36,12 @@
   quoteposition: right  
   en:
     title: The Sharif Bible
-    caption: "&ldquo;Go into all the world and preach the gospel to all creation.&rdquo; (Mark 16:15)"
+    quote: Go into all the world and preach the gospel to all creation.
+    ref: Mark 16:15
   ar:
     title: الكتاب الشريف
-    caption: اذهبواإلى كل العالم، وانتشروا البشرى لكل الناس. (مرقس 15:16)
+    quote: اذهبواإلى كل العالم، وانتشروا البشرى لكل الناس. 
+    ref: مرقس 15:16
 -
   pos: 2 
   path: /assets/carousel-4.jpg
@@ -45,10 +49,12 @@
   quoteposition: left  
   en:
     title: The Sharif Bible
-    caption: "&ldquo;The Sharif Bible presents to people new life in Christ in a language that is dynamic, clear, and simple.&rdquo; (Dr. Richard Brown, Translation Consultant, USA)"
+    quote: The Sharif Bible presents to people new life in Christ in a language that is dynamic, clear, and simple.
+    ref: Dr. Richard Brown, Translation Consultant, USA
   ar:
     title: الكتاب الشريف
-    caption: الكتاب الشريف تقدم للناس الحياة الجديدة في المسيح بلغة حيوية وواضحة وبسيطة. (الدكتور رشارد براون، الولايات المتحدة)
+    quote: الكتاب الشريف تقدم للناس الحياة الجديدة في المسيح بلغة حيوية وواضحة وبسيطة. 
+    ref: الدكتور رشارد براون، الولايات المتحدة
 -
   pos: 3 
   path: /assets/carousel-5.jpg
@@ -56,7 +62,9 @@
   quoteposition: left  
   en:
     title: The Sharif Bible
-    caption: "&ldquo;Let the children come to me and do not forbid them, because God brings into his kingdom people who are like them.&rdquo; (Matthew 19:14)"
+    quote: Let the children come to me and do not forbid them, because God brings into his kingdom people who are like them.
+    ref: Matthew 19:14
   ar:
     title: الكتاب الشريف
-    caption: خلوا الأطقال يأتون إليَّ ولا تمنعوهم، لأن الله يدخل إلى مملكته من هم مثلهم. (متى 14:19)
+    quote: خلوا الأطقال يأتون إليَّ ولا تمنعوهم، لأن الله يدخل إلى مملكته من هم مثلهم.
+    ref: متى 14:19
