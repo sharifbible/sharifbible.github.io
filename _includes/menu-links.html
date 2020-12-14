@@ -1,6 +1,12 @@
 {% for item in site.data.nav-menus %}
   {% assign menu_text = item[1][page.lang] %}
+  {% assign lang_path = "/" | append: page.lang | append: "/" %}
+  {% assign stripped_page_url = page.url | replace: lang_path, "" | replace: "/", "" %}
+  {% assign active = "" %}
+  {% if item[1].path == stripped_page_url %}
+    {% assign active = "active" %}
+  {% endif %}
   <li class="nav-item">
-    <a class="nav-link" href="/{{page.lang}}/{{ item[1].path }}">{{ menu_text }}</a>
+    <a class="nav-link {{ active }}" href="/{{page.lang}}/{{ item[1].path }}">{{ menu_text }}</a>
   </li>
 {% endfor %}

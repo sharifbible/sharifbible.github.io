@@ -24,20 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   clear, and easy to understand. It is an accurate translation of the original Hebrew and
   Greek texts into the people's simple language.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sharifbible.github.io"
 lang: en
-sitesearchurl: "sharifbible.com"
-twitter_username: sharifbible
-github_username:  sharifbibleadmin
-
+sitesearchurl: "sharifbible.github.io"
 
 # default values for processing
 defaults:
   -
     scope:
-      path: "images"
+      path: "assets/**/*.*"
     values:
-      image: true
+      sitemap: false
 # multilanguage settings
   -
     scope:
@@ -53,22 +50,31 @@ defaults:
 # Build settings
 markdown: kramdown
 sass:
-  sass_dir: css
-  load_paths:
-    - node_modules
-  style: compact
+  sass_dir: _sass
+  style: compressed
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Jekyll SEO Plugin settings
+# unused (and already defined) values will be commented out
+
+# title:
+# description:
+# author: 
+twitter:
+  username: sharifbible
+  card: summary
+# facebook:
+#   app_id:
+#   publisher:
+#   admins:
+# logo:
+social: 
+  name: Sharif Bible
+  links:
+    - https://www.twitter.com/SharifBible
+    # - don't know the facebook link
+google_site_verification: wLAwiHXO_7MFpJM-njc-j6QHchzfzwSofdpHCnPxepc
