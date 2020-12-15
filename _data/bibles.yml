@@ -1,0 +1,28 @@
+-
+  img-path: /assets/img/covers/standard-sharif.jpg
+  alt: Standard Sharif Bible
+  en:
+    description: "**First**, our standard *Sharif Bible* (beautifully printed, gold leaf edges, green hardcover) containing both Old and New Testaments. It has helpful introductory information in the beginning pages and very useful information (charts, prayers, short articles) at the end. The margins also include generous lists of cross references, paragraph headings that help you understand, brief explanatory comments, and (in our 2021 edition) small maps that help readers locate the places and events described in the text. It makes a wonderful gift!"
+  ar:
+    description: 
+-
+  img-path: /assets/img/covers/mini-nt.jpg
+  alt: Mini New Testament
+  en:
+    description: "**Second**, our *Mini New Testament*. This pocket-sized New Testament has been very popular. It hides away nicely in your shirt or coat pocket, and you can take it with you wherever you go. The binding is professional and won't fall apart on you, and in spite of being small, the font is very legible. It does not however include any introductory or ending pages, paragraph headings, cross references, or marginal comments."
+  ar:
+    description: 
+-
+  img-path: /assets/img/covers/diglot.jpg
+  alt: Luke-Acts Diglot
+  en:
+    description: "**Third**, our *Luke-Acts Diglot* presents in Arabic and English the gospel as told by Luke as well as the his Book of Acts. We hope to see the Sharif New Testament appear in English, and this is the first installment. It's help for Arabic speakers who are learning English and English speakers who are learning Arabic."
+  ar:
+    description: 
+-
+  img-path: /assets/img/covers/standard-sharif.jpg
+  alt: Pulpit New Testament
+  en:
+    description: "**Lastly**, our *Pulpit New Testament*, is a large-print edition of the New Testament. You might enjoy placing it open on a stand in your home or place of public gathering."
+  ar:
+    description: 
