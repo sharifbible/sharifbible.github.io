@@ -2,64 +2,80 @@
   img-path: /assets/img/covers/oil-seller.jpg
   alt: The Oil Seller
   en:
-    description: "**The Oil Seller** is compilation of true-life modern stories told against the background of Jesus’ parables. This book presents challenging and inspirational accounts of Jesus’ power to save."
+    description: "**The Oil Seller** is a compilation of true-life modern stories told against the background of Jesus’ parables. This book presents challenging and inspirational accounts of Jesus’ power to save."
     url: https://www.example.org
   ar:
-    description: 
-    url: 
+    description: .بائعة الزيت يورد المؤلف في قصصًا من كتاب الله وواقع الحياة ليضرب للناس الأمثال، وذلك في قالب روحي نقى من الشوائب الثقافية والتاريخية والدينية التي اعترت فكرنا وأدبياتنا الروحية، فأصبحت غشاوة تحجب عنَّا رسالة الحياة التي جاء بها سيدنا عيسى المسيح. كما يروى المؤلف شهادات مؤمنين نهلوا من ماء الحياة وعرفوا نور الحق فآثروا الشهادة أو شظف العيش على العودة إلى الظلام.
+    url: https://www.example.org
 -
   img-path: /assets/img/covers/greatest-visitor.jpg
   alt: Greatest Visitor
   en:
     description: "**Greatest Visitor** explores Jesus as the answer to important questions - Who is the greatest to have ever visited the earth? Who is the most excellent visitor we have ever welcomed from another place? He remained with us for a single lifetime before returning to his home."
+    url: https://www.example.org
   ar:
-    description: 
+    description: من هو أعظم من زار أرضنا؟ من هو أسمى من أقدم علينا من مكان آخر، وظل بيننا فترة قصيرة ثم رجع إلى المكان الذي جاء منه؟ تعال نفحص هذا السؤال.
+    url: https://www.example.org
 -
   img-path: /assets/img/covers/i-saw-his-face.jpg
   alt: I Saw His Face
   en:
     description: "**I Saw His Face** is a true account of one man’s incredible story of God’s providence and the encounter of his lifetime."
+    url: https://www.example.org
   ar:
-    description: 
+    description: قصة واقعية من صميم الحياة. أحداثها جرت فعلا، ووقائعها وتفاصيلها حقيقية لا خيالية. تعرفت على الكاتب في ظروف حالكة كان يمر بها. لكن دبرت العناية الإلهية أن نلتقي، فكان بحق لقاء العمر.
+    url: https://www.example.org
 -
   img-path: /assets/img/covers/my-father.jpg
   alt: My Father
   en:
     description: "**My Father** - In this book author Sheikh Abdullah presents an inspirational study of the Lord’s Prayer."
+    url: https://www.example.org
   ar:
-    description: 
+    description: في كتابه الجديد يقدّم لنا الشيخ عبد الله دراسة قد يعزُّ نظيرها حول مفهوم الصلاة ومعالمها ومعناها الصادق، وفق عقيدة سيدنا عيسى، وهي بنصِّ كلمات الكاتب، "صلاةٌ كاملةٌ، عجيبةِّ وقويةِّ تحتوي على كلِّ ما نحتاج إليه، كلِّ ما يهمّنا، من روحيات وماديات، من مملكة الله إلى خبزنا اليوميِّ، الأشياء الكبيرة والأشياء الصغيرة، الأمورِ العظيمة والأمورِ البسيطة.
+    url: https://www.example.org
 -
   img-path: /assets/img/covers/he-loved-me.jpg
   alt: He Loved Me
   en:
     description: "**He Loved Me** is a wonderful presentation of the deep and profound mystery of the Cross."
+    url: https://www.example.org
   ar:
-    description: 
+    description: هذا الكتاب بعد البداية الهادئة التي تمهد بتقديم المعلومات الأولية للقارئ الخالي الذهن، تصاعد عرض المعنى الروحي بشكل متدرج رائع. وهنا أصبح الموضوع لاهوتيا عميقا وسهلا في آن واحد، وأيضا مصحوبا بعاطفة دافئة تجاه مولانا المسيح وموته من أجلنا على الصليب. تلك العاطفة التي تدلف بسلاسة إلى روح القارئ، فتنشئ تفاعلا تلقائيا يغرس اختبارا روحيا في صميم الصميم من وجدان من يقبل.
+    url: https://www.example.org
 -
   img-path: /assets/img/covers/prayers-of-david.jpg
   alt: Prayers of the Prophet David
   en:
     description: "**Prayers of the Prophet David** presents a collection of prayers offered to God by the Prophet David, prayers preserved by God for us for our encouragement and guidance."
+    url: https://www.example.org
   ar:
-    description: 
+    description: هذه مجموعة من الأدعية التي كان يقدمها النبي داود لله قبل حوالي 2‪,‬700 سنة. لقد أبقاها الله لنا بقدرته وحكمته دون تغيير أو تحريف لتكون مشجعا لنا ولكي يمكننا أن نستنير بهديها. رجاؤنا في الله القدير أن يستعملها القارئ في دعائه وصلاته.
+    url: https://www.example.org
 -
   img-path: /assets/img/covers/no-sorrows.jpg
   alt: No Sorrows
   en:
     description: "**Don’t Waste Your Sorrows** - Many today suggest the spiritual life of faith is a life of continuous joy and prosperity, free from the pain and suffering of trials and misfortunes. This book addresses this false view of life’s journey."
+    url: https://www.example.org
   ar:
-    description: 
+    description: تؤكد فئات متعددة اليوم أن الحياة الروحية المثالية هي حياة متواصلة الفرح والسلام والازدهار المادي. فالانطباع السائد لدى تلك الفئات أن النجاة والامتلاء بالروح يؤديان إلى حياة حلوة، خالية من المتاعب، فيها تُحل جميع المشاكل تلقائيًا وتحدث المعجزات بلا انقطاع. هذا الكتاب يعالج هذا الخطأ باللجوء إلى كلمة الله.
+    url: https://www.example.org
 -
   img-path: /assets/img/covers/problems-have-a-solution.jpg
   alt: Your Problems Have a Solution
   en:
     description: "**Your Problems Have a Solution** - The dilemma which confronts each thinking person today is humanity itself: Where did we come from? Where are we going? Whence all the forces of opposition that wage war in me? How is it I love one day and then hate another? What’s the point in all this?"
+    url: https://www.example.org
   ar:
-    description: 
+    description: المعضلة الأولى التي تواجه العقل المفكر هي معضلة الإنسان - من أين أتيت؟ وإلى أين أذهب؟ وماذا تعنيه كل هذه العناصر المتعارضة داخل طبيعتي؟ كيف أني أحب ذات يوم، ثم في خلال ساعة واحدة أكره؟ ما مغزى جميع هذه التجارب الغريبة والمتناقضة التي اجتازها وأنا أشق طريقي في الحياة؟‬.
+    url: https://www.example.org
 -
   img-path: /assets/img/covers/poems-prayers.jpg
   alt: Poems and Prayers
   en:
     description: "**Poems & Prayers** is a small book of poems and prayers written by Poet Omar El-Madi, about whom Sheikh Abdullah says in his forward, “In this book we are led into an experience of deep emotions and peace of mind, of the terrifying past and present bliss, of life far from God and also of life lived under the care and provision of God’s tenderness, mercy, and grace.”"
+    url: https://www.example.org
   ar:
-    description: 
+    description: كتاب صغير له مجموعتان من قصائد وأدعية من الشاعر عمر المهدي. من مقدمه لهذا الكتاب من عمر المهدي، يقول الشيخ عبدالله، "في هذا الكتاب نحن نختبر مع الكاتب عمق العواطف مع هدوء النفس، والماضي الكئيب مع الحاضر الهنيء، والحياة البعيدة عن الله الحق، والعيشة في كنف القدير وتحت جناحي رحمته وحنانه ونعمته."
+    url: https://www.example.org

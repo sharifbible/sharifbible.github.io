@@ -46,7 +46,7 @@
   pos: 2 
   path: /assets/img/carousel/carousel-4.jpg
   alt: Third slide
-  quoteposition: bottom  
+  quoteposition: left  
   en:
     title: The Sharif Bible
     quote: The Sharif Bible presents to people new life in Christ in a language that is dynamic, clear, and simple.
@@ -68,3 +68,16 @@
     title: الكتاب الشريف
     quote: خلوا الأطقال يأتون إليَّ ولا تمنعوهم، لأن الله يدخل إلى مملكته من هم مثلهم.
     ref: متى 14:19
+-
+  pos: 4 
+  path: /assets/img/covers/why-sharif-cover.jpg
+  alt: Fifth slide
+  quoteposition: right 
+  en:
+    title: Why the Sharif?
+    quote: Visit our Why the Sharif? page to see what makes the Sharif Bible so special. Download the booklet in Arabic or the English brochure to learn more.
+    ref:
+  ar: /assets/img/covers/why-sharif-cover.jpg
+    title: لماذا الشريف؟
+    quote: زُرْ صفحتنا لماذا الشريف؟ لترى ما هي المميزات التي تجعل الكتاب الشريف ترجمة فريدة من نوع. نزّلْ الكتاب في العربية أو ملخص له في الإنطليزية.   
+    ref:
