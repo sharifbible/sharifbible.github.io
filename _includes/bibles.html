@@ -1,6 +1,6 @@
 {% for item in site.data.bibles %}
   <div class="row justify-content-md-center">
     <div class="col col-lg-2"><img src="{{ item.img-path }}" alt="{{ item.alt }}" class="img-fluid"></div>
-    <div class="col col-md-4">{{ item[page.lang].description | markdownify }}</div>
+    <div class="col col-md-4"><strong>{{ item[page.lang].title }}</strong> <br /> {{ item[page.lang].description | markdownify }}</div>
   </div>
 {% endfor %}
