@@ -19,4 +19,6 @@ Our desire is to gather together all readers – educated and uneducated, the el
 
 That’s why the Sharif Bible exists.
 
+Download a copy of our book *Why the Sharif?* in Arabic [here]() or click [here]() for a shorter English summary of how and why the Sharif came to be and what makes it so special.
+
 Sheikh Abdullah
