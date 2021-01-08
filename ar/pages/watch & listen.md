@@ -14,4 +14,4 @@ permalink: /ar/watch-listen/
 احضر [تعليم "الله أكبر" للشيخ عبدالله](https://www.youtube.com/channel/UCO-jeCNyZ2D-qmMs3fNA_nA)  
 
 {: dir="rtl"}
-اسمع [للكتاب الشريف بتسجيل دراماتيكي](https://www.youtube.com/channel/UC9u4q6ZsOv6kdnxHW0OrNTg) dramatized!
+اسمع [للكتاب الشريف بتسجيل دراماتيكي](https://www.youtube.com/channel/UC9u4q6ZsOv6kdnxHW0OrNTg)
