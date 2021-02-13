@@ -1,0 +1,8 @@
+en:
+  label: English
+  langdir: ltr
+  spacing: r
+ar:
+  label: Arabic
+  langdir: rtl
+  spacing: l

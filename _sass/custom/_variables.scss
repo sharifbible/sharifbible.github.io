@@ -1,0 +1,58 @@
+// customization for the home-page carousel, to help the captions stand
+// out a little better.
+$white:    #fff !default;
+$carousel-caption-width:             70% !default;
+$carousel-caption-color:             $white !default;
+$carousel-caption-padding-y:         1.25rem !default;
+$carousel-caption-padding:         1.25rem !default;
+$carousel-caption-spacer:            1.25rem !default;
+
+#mainCarousel .carousel-caption-left {
+  color: $carousel-caption-color;
+  text-align: center;
+  max-width: 300px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background: rgba(0,0,0,0.5);
+  padding: $carousel-caption-padding;
+  height:100%;
+}
+  
+  // customization for the home-page carousel, some pictures require the
+  // captions to align to the right.
+#mainCarousel .carousel-caption-right {
+  color: $carousel-caption-color;
+  text-align: center;
+  max-width: 300px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  background: rgba(0,0,0,0.5);
+  padding: $carousel-caption-padding;
+  height:100%;
+}
+  
+#mainCarousel .carousel-caption-bottom {
+  position: absolute;
+  right: (100% - $carousel-caption-width) / 2;
+  bottom: $carousel-caption-spacer;
+  left: (100% - $carousel-caption-width) / 2;
+  color: $carousel-caption-color;
+  text-align: center;    
+  padding-top: $carousel-caption-padding-y;
+  padding-bottom: $carousel-caption-padding-y; 
+  background: rgba(0,0,0,0.5);    
+}
+
+#mainCarousel .carousel-caption-top {
+  position: absolute;
+  right: (100% - $carousel-caption-width) / 2;
+  top: $carousel-caption-spacer;
+  left: (100% - $carousel-caption-width) / 2;
+  color: $carousel-caption-color;
+  text-align: center;    
+  padding-top: $carousel-caption-padding-y;
+  padding-bottom: $carousel-caption-padding-y;   
+  background: rgba(0,0,0,0.5);    
+}

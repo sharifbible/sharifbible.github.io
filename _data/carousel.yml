@@ -1,0 +1,83 @@
+## The carousel YAML file defines each of the images and text content used by the home page
+## for the main hero carousel, a bootstrap component (https://getbootstrap.com/docs/4.0/components/carousel/).
+## The carousel data includes the image, the alignment of the caption, and the caption content
+## in each of the languages.
+## To add a new image, just add a new data item, defined below:
+## -
+##   pos: a numeric position, should be in order and start at 0 (i.e. 0, 1, 2, 3). 
+##        The 0 pos item is always active first.
+##   path: the path to the image (usually in the assets folder)
+##   alt: the html "alt" content, something to describe the image for visuall impaired viewers
+##   quoteposition: the alignment (left, right) of the text, so that it doesn't overlay an
+##        important part of the image.
+##   (repeating section for each language)
+##   [lang]: the language identifier (en, ar, etc) for the translated content to show
+##     title: the title of the quote
+##     caption: the caption, which should follow the standards of YAML for escaping quotes. So, if
+##         quotes are included in the caption, surround the entire caption with quotes, and escape the
+##         internal quotes, e.g. "this is an \"escaped quote\" in YAML."
+-
+  pos: 0
+  path: /assets/img/carousel/carousel-2.jpg
+  alt: First slide
+  quoteposition: left  
+  en:
+    title: The Sharif Bible
+    quote: When you read the Sharif Bible, the language flows easily, you enjoy what you read, and you feel as if it really is addressed to you personally from a Heavenly Father, and you’re also able to share it easily with others.
+    ref: Um Ghattas, Jordan
+  ar:
+    title: الكتاب الشريف
+    quote: حين تقرأ الكتاب الشريف تناسب اللغة بسهولة، وتتمتع بالكلام الذي تقرأه، وتشعر بأنه حقا خطاب موجه لك أنت شخصيا من أبيك السمائي، كما يمكنك بسهولة مشاركة كلامه مع الآخرين.
+    ref: أم غطاس، الأردن
+-
+  pos: 1 
+  path: /assets/img/carousel/carousel-3.jpg
+  alt: Second slide
+  quoteposition: right  
+  en:
+    title: The Sharif Bible
+    quote: Go into all the world and preach the gospel to all creation.
+    ref: Mark 16:15
+  ar:
+    title: الكتاب الشريف
+    quote: اذهبوا إلى كل العالم، وانتشروا البشرى لكل الناس. 
+    ref: مرقس 15:16
+-
+  pos: 2 
+  path: /assets/img/carousel/carousel-4.jpg
+  alt: Third slide
+  quoteposition: left  
+  en:
+    title: The Sharif Bible
+    quote: The Sharif Bible presents to people new life in Christ in a language that is dynamic, clear, and simple.
+    ref: Dr. Richard Brown, Translation Consultant, USA
+  ar:
+    title: الكتاب الشريف
+    quote: الكتاب الشريف تقدم للناس الحياة الجديدة في المسيح بلغة حيوية وواضحة وبسيطة. 
+    ref: الدكتور رشارد براون، الولايات المتحدة
+-
+  pos: 3 
+  path: /assets/img/carousel/carousel-5.jpg
+  alt: Fourth slide
+  quoteposition: left  
+  en:
+    title: The Sharif Bible
+    quote: Let the children come to me and do not forbid them, because God brings into his kingdom people who are like them.
+    ref: Matthew 19:14
+  ar:
+    title: الكتاب الشريف
+    quote: خلوا الأطقال يأتون إليَّ ولا تمنعوهم، لأن الله يدخل إلى مملكته من هم مثلهم.
+    ref: متى 14:19
+-
+  pos: 4 
+  path: /assets/img/covers/why-sharif-1.jpg
+  alt: Fifth slide
+  quoteposition: right 
+  en:
+    title: Why the Sharif?
+    quote: Visit our Why the Sharif? page to see what makes the Sharif Bible so special. Download the booklet in Arabic or the English brochure to learn more.
+    ref:
+  ar: 
+    title: لماذا الشريف؟
+    quote: زُرْ صفحتنا "لماذا الشريف؟" لترى ما هي المميزات التي تجعل الكتاب الشريف ترجمة فريدة من نوع. نزّلْ هذا الكتاب في العربية أو ملّخص عنه في الإنكليزية.   
+    ref:

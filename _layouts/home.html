@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" dir="{{ site.data.locales[page.lang].langdir | default: site.data.locales['en'].langdir }}">
+ {% include head.html %}
+ <body>
+  {% include navigation.html %}
+  {% include carousel.html %}
+  <div class="container-fluid">
+   <div class="row">
+    <div class="col">
+{{ content }}
+    </div>
+   </div>
+  </div>
+  {% include footer.html %}
+ </body>
+</html>

@@ -1,0 +1,36 @@
+-
+  img-path: /assets/img/covers/standard-sharif.jpg
+  alt: Standard Sharif Bible
+  en:
+    title: Standard Sharif Bible
+    description: Beautifully printed, with gold leaf edges and a green hardcover, containing both Old and New Testaments. It has helpful introductory information in the beginning pages and very useful information (charts, prayers, short articles) at the end. The margins also include generous lists of cross references, paragraph headings that help you understand, brief explanatory comments, and (in our 2021 edition) small maps that help readers locate the places and events described in the text. It makes a wonderful gift!
+  ar:
+    title: إصدارنا الرئيسي للكتاب الشريف
+    description: هذا الإصدار من الكتاب الشريف مطبوع بشكل جميل جدا. له حواف ذهبية وغطاء أخضر، ويحتوي على العهدين القديم والجديد. له مقدمة ومعلومات مفيدة أخرى موجودة في نهاية الكتاب (مثل مخططات ومقالات قصيرة تناقش مسائل مهمة). أيضًا يتضمن في القوائم هوامش تقارن بين النصوص وعناوين لكل فقرة تساعدك في القراءة، والتعليقات التفسيرية الموجزة. وفي إصدارنا لعام 2021 توجد خرائط تساعد القارئ على تحديد الأماكن والأحداث الموضحة في النص. هذه الطبعة من الكتاب الشريف تبقى هدية رائعة.
+-
+  img-path: /assets/img/covers/mini-nt.jpg
+  alt: Mini New Testament
+  en:
+    title: Mini New Testament
+    description: This pocket-sized New Testament has been very popular. It hides away nicely in your shirt or coat pocket, and you can take it with you wherever you go. The binding is professional and won't fall apart on you, and in spite of being small, the font is very legible. It does not however include any introductory or ending pages, paragraph headings, cross references, or marginal comments.
+  ar:
+    title: الطبعة المصغرة للإنجيل الشريف
+    description: هذا هو أصغر إصدار من الإنجيل الشريف، وله شهرة كبيرة. يناسب بسهولة في جيب قميصك أو في المعطف حتى يمكنك أن تأخذه أينما تذهب. الطباعة احترافي جدا ولن ينهر. وعلى الرغم من صغر حجم الخط، إلّا أنه واضح جدا. لكنه لا يتضمن أي مادة تقديمية، عناوين لفقرات النص، ولا هوامش ولا تعليقات تفسيرية.
+-
+  img-path: /assets/img/covers/diglot.jpg
+  alt: Luke-Acts Diglot
+  en:
+    title: Luke-Acts Diglot
+    description: Arabic and English side-by-side, presenting the gospel as told by Luke as well as the Book of Acts. We hope to see the Sharif New Testament appear in English, and this is the first installment. It's helpful for Arabic speakers who are learning English and English speakers who are learning Arabic.
+  ar:
+    title: قصة المسيح وأتباعه - لوقا وأعمال الرسل بلغتين
+    description: هنا لدينا الإنجيل (كما يرويه لوقا) وكتاب أعمال الرسل (كتبه لوقا أيضا) مقدّم باللغتين العربية والإنجليزية على صفحات متقابلة. نتمنى أن يكون الإنجيل الشريف مطبوعا في المستقبل باللغة الإنجليزية.  هذه الطبعة هي الدفعة الأولى لهذا الهدف. إنه مفيد للناطقين باللغة العربية الذين يتعلمون الإنجليزية وكذلك للمتحدثين بالإنجليزية الذين يتعلمون العربية.
+-
+  img-path: /assets/img/covers/standard-sharif.jpg
+  alt: Pulpit New Testament
+  en:
+    title: Pulpit New Testament
+    description: A large-print edition of the New Testament. You might enjoy placing it open on a stand in your home or place of public gathering.
+  ar:
+    title: طبعة مكبّرة للإنجيل الشريف
+    description: هذه أكبر نسخة لدينا من الإنجيل الشريف. ممكن تستمتع من وضعه مفتوحا على حامل في بيتك. وبالنسبة لأولئك الذين يعانون من ضعف البصر، فالخط الكبير يجعل القراءة سهلة جدا.

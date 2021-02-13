@@ -1,0 +1,38 @@
+<div id="mainCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+  <ol class="carousel-indicators">
+    {% for image in site.data.carousel %}
+    {% assign active_style = "" %}
+    {% if image.pos == 0 %}
+      {% assign active_style = "active" %}
+    {% endif %}
+    <li data-bs-target="#mainCarousel" data-bs-slide-to="{{ image.pos }}" class="{{ active_style }}"></li>
+    {% endfor %}
+  </ol>
+  <div class="carousel-inner">
+    {% for image in site.data.carousel %}
+    {% assign active_style = "" %}
+    {% if image.pos == 0 %}
+      {% assign active_style = "active" %}
+    {% endif %}
+    <div class="carousel-item {{ active_style }}">
+      <img class="d-block w-100" src="{{ image.path }}" alt="{{ image.alt }}">
+      <div class="carousel-caption-{{ image.quoteposition }} d-none d-md-block">
+        <h3>{{ image.[page.lang].title }}</h3>
+        {% if image.[page.lang].ref %}
+        <p>&ldquo;{{ image.[page.lang].quote }}&rdquo; ({{ image.[page.lang].ref }})</p>
+        {% else %}
+        <p>{{ image.[page.lang].quote }}</p>        
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <a class="carousel-control-prev" href="#mainCarousel" role="button" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#mainCarousel" role="button" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </a>
+</div>

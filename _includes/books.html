@@ -1,0 +1,6 @@
+{% for item in site.data.downloadable-books %}
+  <div class="row justify-content-md-center">
+    <div class="col col-lg-2"><img src="{{ item.img-path }}" alt="{{ item.alt }}" class="img-fluid"></div>
+    <div class="col col-md-4"><strong>{{ item[page.lang].title }}</strong> <br /> {{ item[page.lang].description | markdownify }} {% if item[page.lang].url %} <br /> <a href="{{ item[page.lang].url }}" target="_blank">Download this book</a> {% endif %}</div>
+  </div>
+{% endfor %}

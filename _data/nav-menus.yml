@@ -1,0 +1,36 @@
+home:
+  path: 
+  en: Home
+  ar: الرئيسية
+why-the-sharif:
+  path: why-the-sharif
+  en: Why the Sharif?
+  ar: لماذا الشريف؟‎
+watch-listen:
+  path: watch-listen
+  en: Watch & Listen
+  ar: ترى وتسمع
+bibles-books:
+  path: bibles-books
+  en: Bibles & Books
+  ar: الكتاب الشريف وكتب أخرى
+contact:
+  path: contact
+  en: Contact
+  ar: اتصل بنا
+order:
+  path: order
+  en: Order
+  ar: اطلب
+about:
+  path: about
+  en: About
+  ar: من نحن؟
+ٍsharif-study-bible:
+  path: sharif-study-bible
+  en: Sharif Study Bible
+  ar: معين الدارس للكتاب الشريف
+stories-and-conversations:
+  path: stories-and-conversations
+  en: Stories & Conversations
+  ar: قصص ومناقشات
