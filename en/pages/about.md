@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /en/about/
 ---
-## About us and the Sharif Bible
+## About us1 and the Sharif Bible
 
 There is no God but God, to whom belongs praise and from whom come all favors and blessing.
 
