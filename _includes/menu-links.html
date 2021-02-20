@@ -1,12 +1,28 @@
-{% for item in site.data.nav-menus %}
-  {% assign menu_text = item[1][page.lang] %}
+{% for menuitem in site.data.nav-menus %}
   {% assign lang_path = "/" | append: page.lang | append: "/" %}
   {% assign stripped_page_url = page.url | replace: lang_path, "" | replace: "/", "" %}
-  {% assign active = "" %}
-  {% if item[1].path == stripped_page_url %}
-    {% assign active = "active" %}
-  {% endif %}
-  <li class="nav-item">
-    <a class="nav-link {{ active }}" href="/{{page.lang}}/{{ item[1].path }}">{{ menu_text }}</a>
+  {% if menuitem.submenu.size > 0 %}
+  <li class="navitem dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="{{menuitem.en}}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{menuitem[page.lang]}}</a>
+    <ul class="dropdown-menu" aria-labelledby="{{menuitem.en}}">
+      {% for submenuitem in menuitem.submenu %}
+        {% assign active = "" %}
+        {% if submenuitem.path == stripped_page_url %}
+          {% assign active = "active" %}
+        {% endif %}
+        <li>
+          <a class="dropdown-item" href="/{{page.lang}}/{{ submenuitem.path }}">{{submenuitem[page.lang]}}</a>
+        </li>
+      {% endfor %}
+    </ul>
   </li>
+  {% else %}
+    {% assign active = "" %}
+    {% if menuitem.path == stripped_page_url %}
+      {% assign active = "active" %}
+    {% endif %}
+    <li class="nav-item">
+      <a class="nav-link {{ active }}" href="/{{page.lang}}/{{ menuitem.path }}">{{ menuitem[page.lang] }}</a>
+    </li>
+  {% endif %}
 {% endfor %}
