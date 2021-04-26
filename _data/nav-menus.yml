@@ -14,9 +14,9 @@
   - path: sharif-study-bible
     en: Sharif Study Bible
     ar: معين الدارس للكتاب الشريف
-  - path: stories-and-conversations
-    en: Stories & Conversations
-    ar: قصص ومناقشات
+  - path: sharif-blog
+    en: Sharif Blog
+    ar: مناقشات
 - path: order
   en: Order
   ar: اطلب
