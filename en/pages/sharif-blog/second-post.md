@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: New Sharif site welcomes you
-permalink: /en/blog/first-post
+title: New 2021 edition nears finish line
+permalink: /en/blog/second-post
 ---
 
-We are happy to announce the launch of our rebuilt website. Our older site has gone. It was better than no online presence at all, but it fell short of providing visitors the experience we want them to have. We hope the new site is helpful, and we invite you to explore its pages and resources. We still have some small improvements to make, but we’re redesigned enough to welcome you in.
+The past year we've been working non-stop to finish edits, improvements, and layout for SAB 2021. We are now approaching the final stages of layout and are very excited about this edition - the best, most accurate, most helpful edition ever.
 
-If you’re reading this, you’ve found your way to our Sharif Blog which we’ll use to share news items, prayer requests, educational posts about the Sharif translation, and inspiration thoughts taken from the Sharif Bible.
+In future blog posts we'll share some of the changes and improvements with you. But for now, one new feature will be in the margins. We've cleaned up and improved our marginal expalanatory note. More importantly, however, we now have maps in the margins so readers can identify locations and distances. This will be a great help to newer readers unfamiliar with biblical locations.
 
-Check out our Why the Sharif? page under the Menu options also. You can download the full Arabic booklet or a much smaller, abridged representation of the main content in English.
+The Sharif Study Bible has be 2nd in line for our attention, but it too will soon be a focus of effort and concern. Book introductions are written and some 200 Articles have been composed and edited with our readers in mind.
 
-There’s a ‘Suggestions & Questions’ box on the Home Page as well if you ever wish to drop us a note. We’d love to hear from you.
+Keep praying for us as ISBS as the work of making God's Word understandable and accessible to all continues!
